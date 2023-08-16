@@ -1,12 +1,12 @@
 console.log
-// Esse é um comentário de "Bom dia!
+// Esse é um comentário de "Bom dia! -Comentário em linha.
 console.log
 ("Bom dia!");
 
 /* Esse é outro comentario
 console.log
 ("Bom dia!");
-
+Aqui eu tenho um comentário de BLOCO ou Multi linha.
 */
 
 
@@ -14,4 +14,4 @@ console.log
 *Esse é um comentário
 *de múltiplas
 *linhas!
-* console log!, 
+* console log!,
