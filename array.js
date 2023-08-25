@@ -6,4 +6,10 @@ Array (Vetores)
 ["May", 33]
 */
 
-console.log ("May")
+console.log ([
+    "Leite",
+    "Ovos", //Colodando o tipo de dado que funciona
+    2,
+    3,
+])
+
