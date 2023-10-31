@@ -1,12 +1,12 @@
 // > LAÇOS CONDICIONAIS
 
-const input = require('readline-sync')
+const input = require('readline-sync') //Nome da variável constante é (input)  entrada, o comando para importa a biblioteca é (require); a partir de agora é possível ler os dados do usuário.
 
 const numero_sorteado = 5;
 
-const numero = Number(input.question('Qual numero voce escolhe?'))9
+const numero = Number(input.question('Qual numero voce escolhe?')) 
 
-console.log(numero, typeof numero)
+console.log(numero, typeof numero) 
 
 if (numero === numero_sorteado) {
     console.log('Voce acertou')
