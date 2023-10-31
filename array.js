@@ -7,6 +7,7 @@ Array (Vetores)
 */
 
 console.log ([
+
     "Leite",
     "Ovos", //Colodando o tipo de dado que funciona
     2,
